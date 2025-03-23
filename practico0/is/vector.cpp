@@ -117,7 +117,7 @@ Vector Vector::operator-() const
 
 float Vector::module() const
 {
-    return this->module();
+    return this->saved_module;
 }
 
 float Vector::squareModule() const
