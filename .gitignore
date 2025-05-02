@@ -1,5 +1,5 @@
 *.o
 main
 .DS_Store
-OpenGL-basico
+OpenGL-basico*
 practico*2012
